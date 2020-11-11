@@ -1,0 +1,4 @@
+export const GET_ALL_PLANETS = 'GET_ALL_PLANETS';
+export const SET_FILMS_DATA = 'SET_FILMS_DATA';
+export const SET_RESIDENTS_DATA = 'SET_RESIDENTS_DATA';
+export const SET_DETAIL_DATA = 'SET_DETAIL_DATA';
